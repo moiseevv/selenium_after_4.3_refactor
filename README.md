@@ -1,5 +1,8 @@
 # selenium_after_4.3_refactor
 
+Была ошибка
+AttributeError: 'WebDriver' object has no attribute 'find_element_by_tag_name'
+
 Для версии selenium после версии 4.3 нужно переписать некоторые функции
 Для опnимизации процесса сделан данный скрипт
 
